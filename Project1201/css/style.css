@@ -1,0 +1,82 @@
+.table {
+    border: 2px solid #050505;
+    width: 1000px;
+    height: 15px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.table2 {
+    border: 2px solid #050505;
+    width: 1000px;
+    height: 15px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 20px
+}
+
+.table3 {
+    border: 2px solid #050505;
+    height: 15px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 20px
+}
+
+#talbetd1 {
+    background-color: green;
+}
+
+#talbedt2 {
+    background-color: yellow;
+}
+
+#talbedt3 {
+    background-color: orange;
+}
+
+#talbedt4 {
+    background-color: red;
+}
+
+.btn {
+    margin: 5px 0px;
+    display: block;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.btn-more:link {
+    color: #db575c;
+}
+
+.btn-more:visited {
+    color: #cb2930;
+}
+
+.btn-more:hover {
+    background-color: #cb2930;
+    color: white;
+}
+
+.btn-more:active {
+    color: #1f7ac9;
+}
+
+.btn-more {
+    border: 1px solid #db575c;
+}
+
+.btn-primary {
+    background-color: #1f7ac9;
+    color: white;
+}
+
+.btn-success {
+    background-color: #56c36f;
+    color: white;
+}
