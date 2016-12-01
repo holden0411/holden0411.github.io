@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+
+/* NOTE header */
+
+
+/* TODO nav */
+
+
+/* TODO section */
+
+
+/* TODO image block */
+
+
+/* more button */
+
+.btn {
+    margin: 5px 0px;
+    display: block;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.btn-more:link {
+    color: #db575c;
+}
+
+.btn-more:visited {
+    color: #cb2930;
+}
+
+.btn-more:hover {
+    background-color: #cb2930;
+    color: white;
+}
+
+.btn-more:active {
+    color: #1f7ac9;
+}
+
+.btn-more {
+    border: 1px solid #db575c;
+}
+
+.btn-primary {
+    background-color: #1f7ac9;
+    color: white;
+}
+
+.btn-success {
+    background-color: #56c36f;
+    color: white;
+}
+
+.image-block {
+    width: calc(33.33% - 5px*2);
+    float: left;
+    padding: 10px;
+    border: 1px solid;
+    margin: 5px;
+}
+
+.thumbnail {
+    width: 100%;
+}
