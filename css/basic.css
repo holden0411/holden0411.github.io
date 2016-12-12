@@ -68,7 +68,7 @@ body {
     padding: 10px;
 }
 
-@media screen and (min-width:800px) and (max-width:1024px) {
+@media screen and (min-width:992px) and (max-width:1024px) {
     .col-md-1 {
         width: calc(100% * 1 / 12);
     }
@@ -146,7 +146,7 @@ body {
     }
 }
 
-@media screen and (max-width:799px) {
+@media screen and (max-width:991px) {
     .col-sm-1 {
         width: calc(100% * 1 / 12);
     }

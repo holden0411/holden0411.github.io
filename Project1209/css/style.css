@@ -1,0 +1,58 @@
+[class*="col-"] {
+    border: 1px solid;
+}
+
+img {
+    max-width: 100%;
+}
+
+.btn {
+    margin: 0px 0px;
+    display: block;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.btn-more:link {
+    color: #cb2930;
+}
+
+.btn-more:visited {
+    color: #cb2930;
+}
+
+.btn-more:hover {
+    background-color: #cb2930;
+    color: white;
+}
+
+.btn-more:active {
+    background-color: #1f7ac9;
+}
+
+.btn-more {
+    border: 1px solid #db575c;
+}
+
+.footer {
+    background-color: #000000;
+    color: white
+}
+
+.jumbotron {
+    color: white;
+    height: 80vh;
+    background-image: url(https://source.unsplash.com/1000x500);
+    background-size: cover;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+}
+
