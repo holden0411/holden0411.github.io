@@ -1,0 +1,9 @@
+p:after {
+    content: "Hello World";
+    color: blue;
+    font-size: 20px;
+}
+
+[class^="col-"] {
+    border: 1px solid;
+}

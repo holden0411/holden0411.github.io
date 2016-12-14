@@ -1,0 +1,20 @@
+/* 導覽列模組 */
+
+nav li>ul {
+    display: none;
+}
+
+nav li:hover>ul {
+    display: block;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav li>ul>li {}
