@@ -1,0 +1,38 @@
+.item img {
+    width: 100%;
+}
+
+.jumbotron {
+    background-image: url(/image/IMG_7005.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container h1 {
+    color: #ffffff;
+}
+
+p {
+    color: white;
+}
+
+.thumbnail>img {
+    width: 300px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: left;
+}
+
+.item>img {
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.section {
+    background-image: url(/image/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
