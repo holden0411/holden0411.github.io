@@ -1,9 +1,106 @@
-p:after {
-    content: "Hello World";
-    color: blue;
-    font-size: 20px;
+.left {
+    background-color: black;
 }
 
-[class^="col-"] {
-    border: 1px solid;
+right_in>img {
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    padding-top: 0px;
+}
+
+.jumbotron {
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+.photo {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.photo>img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    margin-top: 30px;
+    border: 5px solid white;
+}
+
+.about_me {
+    color: white;
+}
+
+.contact_me {
+    color: white;
+}
+
+.my_skill {
+    color: white;
+}
+
+p::first-letter {
+    font-size: 1.5em;
+    color: red;
+}
+
+.footer {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.portfolio>img {
+    max-width: 100%;
+}
+
+.sub_portfolio>img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#icon {
+    max-height: 30px;
+    max-width: 30px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.circular {
+    width: 200px;
+    height: 200px;
+}
+
+.portimg {
+    height: 200px;
+    width: 1000px;
+}
+
+.sub_portimg {
+    height: 300px;
+    width: 350px;
+}
+
+h4 {
+    background-color: black;
+    color: white;
+}
+
+.contactlink {
+    color: white;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+.progress-bar {
+    float: right;
+    margin-top: 5px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
 }
