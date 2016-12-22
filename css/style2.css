@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#link {
+    height: 500px;
+    width: 700px;
+    border-radius: 30px;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
