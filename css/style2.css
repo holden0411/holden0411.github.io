@@ -4,8 +4,8 @@ body {
 }
 
 #link {
-    max-height: 500px;
-    max-width: 600px;
+    height: 300px;
+    width: 400px;
     border-radius: 30px;
 }
 
